@@ -10,6 +10,7 @@ public class Hello
 		for(int a=1;a<=b;a++)
 		{
 			System.out.println("Java");
+			System.out.println("5");
 		}
 		System.out.println("out main");
 	}
